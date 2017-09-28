@@ -1,0 +1,8 @@
+{
+	"token":"ENTER TOKEN",
+	"port":"6483",
+	"name":"BeepBeep",
+	"prefix":"bb.",
+	"ownerID":"ENTER YOUR ID",
+	"logChannel":"ENTER A CHANNEL FOR LOGGING"
+}
